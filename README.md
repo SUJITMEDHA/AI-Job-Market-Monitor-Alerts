@@ -18,7 +18,13 @@ Python, SQL, Spark, Airflow, AWS, GCP, LLMs, NLP, PyTorch, dbt, Snowflake
 - Modular architecture
 - Ready for LLM + alert integrations
 
+
+
 ## ▶️ Run
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
+
+
